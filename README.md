@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=ZX-159&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ZX-159&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZX-159&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zx-159)](https://github.com/stats-organization/github-stats-extended)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZX-159&theme=radical&no-frame=false&no-bg=true&margin-w=4)
